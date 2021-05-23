@@ -1,0 +1,11 @@
+[Unit]
+Description=mqtt_driven_relais_driver
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/pi/relaisd/relaisd.py /home/pi/relaisd/relaisd.conf /tmp/relaisd.save
+
+[Install]
+WantedBy=multi-user.target
+
