@@ -1,4 +1,4 @@
-# Ein Driver-Programm um Ausgönge mit MQTT zu steuern
+# Ein Driver-Programm um Relais-Ausgänge mit MQTT zu steuern
 Relaisd ist ein recht einfaches Python Programm welches als daemon 
 oder neu als systemd Programm gestartet wird. Es ersetzt meine Lösung mit 
 node-red auf dem Raspi, funktioniert sogar auf einem RaspiZero mit 
