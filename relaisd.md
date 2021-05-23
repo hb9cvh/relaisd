@@ -186,11 +186,5 @@ und eine einfache Überwachung der Funktion mit Fehlermeldung und grey-out der A
 File: nodered_timeout.nr  
 
 ### Fehler und/oder Anregungen
-
-Bin nicht bei github also bitte per Mail an johann@hb9cvh.ch
-
-Johann Maurer
-Hauptstrasse 85
-2563 Ipsach
-
+am besten via github oder an john{at}hb9cvh.ch
 
